@@ -1,9 +1,8 @@
-
-
 <div align="center">
-   <img src="[https://github.com/C23-PR571-Greenify/Greenify-Documentation/blob/main/logo.png](https://github.com/TrashtoTreasure/.github/assets/134958727/c5a35389-41b5-46b4-82eb-a729ed5187ba)" alt="logo" width="350" height="auto" />
-</div>
+   
+![image](https://github.com/TrashtoTreasure/.github/assets/134958727/7c077245-3d59-4b0a-b828-b0c27cbebc5c)
 
+</div>
 
 # Product Capstone Team C23-PS007
 This organization belong to C23-PS007 Capstone Team for Bangkit 2023
