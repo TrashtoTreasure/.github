@@ -1,7 +1,8 @@
-# .github
 
 
-![image](https://github.com/TrashtoTreasure/.github/assets/134958727/c5a35389-41b5-46b4-82eb-a729ed5187ba)
+<div align="center">
+   <img src="[https://github.com/C23-PR571-Greenify/Greenify-Documentation/blob/main/logo.png](https://github.com/TrashtoTreasure/.github/assets/134958727/c5a35389-41b5-46b4-82eb-a729ed5187ba)" alt="logo" width="350" height="auto" />
+</div>
 
 
 # Product Capstone Team C23-PS007
